@@ -15,6 +15,7 @@
 		D86457141F1F3DD100BCFEFC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D86457121F1F3DD100BCFEFC /* LaunchScreen.storyboard */; };
 		D864571F1F1F3DD100BCFEFC /* JSCommunicationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D864571E1F1F3DD100BCFEFC /* JSCommunicationTests.swift */; };
 		D864572A1F1F3DD100BCFEFC /* JSCommunicationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86457291F1F3DD100BCFEFC /* JSCommunicationUITests.swift */; };
+		D86457381F1F3FBB00BCFEFC /* javascript_test.html in Resources */ = {isa = PBXBuildFile; fileRef = D86457371F1F3FBB00BCFEFC /* javascript_test.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D86457251F1F3DD100BCFEFC /* JSCommunicationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JSCommunicationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D86457291F1F3DD100BCFEFC /* JSCommunicationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSCommunicationUITests.swift; sourceTree = "<group>"; };
 		D864572B1F1F3DD100BCFEFC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D86457371F1F3FBB00BCFEFC /* javascript_test.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = javascript_test.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				D86457101F1F3DD100BCFEFC /* Assets.xcassets */,
 				D86457121F1F3DD100BCFEFC /* LaunchScreen.storyboard */,
 				D86457151F1F3DD100BCFEFC /* Info.plist */,
+				D86457371F1F3FBB00BCFEFC /* javascript_test.html */,
 				D864570D1F1F3DD100BCFEFC /* JSCommunication.xcdatamodeld */,
 			);
 			path = JSCommunication;
@@ -236,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D86457141F1F3DD100BCFEFC /* LaunchScreen.storyboard in Resources */,
+				D86457381F1F3FBB00BCFEFC /* javascript_test.html in Resources */,
 				D86457111F1F3DD100BCFEFC /* Assets.xcassets in Resources */,
 				D864570C1F1F3DD100BCFEFC /* Main.storyboard in Resources */,
 			);
